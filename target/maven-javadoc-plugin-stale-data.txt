@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/src/main/java = 1732828140000
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/tag-search-index.js = 1732873813391
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/overview-tree.html = 1732873813342
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/module-search-index.js = 1732873813386
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/index.html = 1732873813347
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/package-search-index.js = 1732873813387
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/link.svg = 1732873813441
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/serialized-form.html = 1732873813248
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/index-all.html = 1732873813420
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/allpackages-index.html = 1732873813385
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/member-search-index.js = 1732873813390
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/copy.svg = 1732873813440
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/script.js = 1732873813439
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/stylesheet.css = 1732873813437
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/search-page.js = 1732873813446
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/overview-summary.html = 1732873813425
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/help-doc.html = 1732873813433
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/element-list = 1732873813188
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/search.html = 1732873813423
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/allclasses-index.html = 1732873813379
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/type-search-index.js = 1732873813389
+/Users/emmi/Documents/Skola/Java/Utvecklingsverktyg/Intellij/Assignments/Submissions/library/target/site/apidocs/search.js = 1732873813444
